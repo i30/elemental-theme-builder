@@ -1,0 +1,26 @@
+{
+    "name": "elementor-site-builder",
+    "version": "1.0.0",
+    "description": "A collection of extensions which help you build stunning websites with Elementor.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/i30/elementor-site-builder.git"
+    },
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "author": "SarahCoding",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/i30/elementor-site-builder/issues"
+    },
+    "homepage": "https://github.com/i30/elementor-site-builder#readme",
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "@babel/preset-env": "^7.9.5",
+        "@babel/preset-react": "^7.9.4",
+        "babel-loader": "^8.1.0",
+        "webpack": "^4.43.0"
+    }
+}

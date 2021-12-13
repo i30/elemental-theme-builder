@@ -1,0 +1,223 @@
+# Copyright (C) 2021 WP Clevel
+# This file is distributed under the same license as the Elemental Theme Builder plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elemental Theme Builder 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/elemental-theme-builder\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-10T15:44:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: elemental-theme-builder\n"
+
+#. Plugin Name of the plugin
+msgid "Elemental Theme Builder"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/elemental-theme-builder"
+msgstr ""
+
+#. Description of the plugin
+msgid "An intuitive theme builder for Elementor Page Builder."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Clevel"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclevel.com"
+msgstr ""
+
+#: elemental-theme-builder.php:51
+msgid "Elemental Theme Builder requires PHP version 7.2 at least!"
+msgstr ""
+
+#: elemental-theme-builder.php:54
+msgid "Elemental Theme Builder requires WordPress version 5.6 at least!"
+msgstr ""
+
+#: elemental-theme-builder.php:57
+msgid "WordPress content directory is inaccessible."
+msgstr ""
+
+#: elemental-theme-builder.php:65
+msgid "Plugin Activation Error"
+msgstr ""
+
+#. translators: %s: loading class.
+#: elemental-theme-builder.php:115
+msgid "Autoloading failed. Class \"%s\" not found."
+msgstr ""
+
+#: src/Blocks/PostMeta/PageLayoutSettings.php:30
+msgid "Select a header template to display on the frontend."
+msgstr ""
+
+#: src/Blocks/PostMeta/PageLayoutSettings.php:38
+msgid "Select a footer template to display on the frontend."
+msgstr ""
+
+#: src/Blocks/PostMeta/PageLayoutSettings.php:66
+#: src/Blocks/PostMeta/PageLayoutSettings.php:109
+msgid "Inherit"
+msgstr ""
+
+#: src/Blocks/PostMeta/PageLayoutSettings.php:70
+#: src/Blocks/PostMeta/PageLayoutSettings.php:113
+msgid "Theme Default"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:57
+msgid "Footer"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:120
+#: src/Documents/SiteHeader.php:120
+msgid "Display Conditions"
+msgstr ""
+
+#. translators: 1: external link open tag. 2: link close tag
+#: src/Documents/SiteFooter.php:130
+#: src/Documents/SiteHeader.php:130
+msgid "Conditions are built on the WordPress template hierarchy. %1$sLearn more &rarr;%2$s"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:139
+#: src/Documents/SiteHeader.php:139
+msgid "If multiple templates have the same display condition, the last updated one will be used."
+msgstr ""
+
+#: src/Documents/SiteFooter.php:147
+#: src/Documents/SiteHeader.php:147
+msgid "Show On"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:152
+#: src/Documents/SiteHeader.php:152
+msgid "None"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:153
+#: src/Documents/SiteHeader.php:153
+msgid "Entire Site"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:154
+#: src/Documents/SiteHeader.php:154
+msgid "Blog Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:156
+#: src/Documents/SiteHeader.php:156
+msgid "Front Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:157
+#: src/Documents/SiteHeader.php:157
+msgid "Archive Pages"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:158
+#: src/Documents/SiteHeader.php:158
+msgid "Singular Pages"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:159
+#: src/Documents/SiteHeader.php:159
+msgid "Error 404 Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:160
+#: src/Documents/SiteHeader.php:160
+msgid "Search Result Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:161
+#: src/Documents/SiteHeader.php:161
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:162
+#: src/Documents/SiteHeader.php:162
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:163
+#: src/Documents/SiteHeader.php:163
+msgid "Custom"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:171
+#: src/Documents/SiteHeader.php:171
+msgid "Select Singular Type(s)"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:185
+#: src/Documents/SiteHeader.php:185
+msgid "Select Archive Type(s)"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:207
+#: src/Documents/SiteHeader.php:207
+msgid "Post"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:208
+#: src/Documents/SiteHeader.php:208
+msgid "Page"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:209
+#: src/Documents/SiteHeader.php:209
+msgid "Attachment"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:229
+#: src/Documents/SiteHeader.php:229
+msgid "Author"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:230
+#: src/Documents/SiteHeader.php:230
+msgid "Date"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:231
+#: src/Documents/SiteHeader.php:231
+msgid "Tag"
+msgstr ""
+
+#: src/Documents/SiteFooter.php:232
+#: src/Documents/SiteHeader.php:232
+msgid "Category "
+msgstr ""
+
+#: src/Documents/SiteHeader.php:57
+msgid "Header"
+msgstr ""
+
+#: assets/js/components/FooterTemplateSelectBox.js:8
+msgid "Elementor Footer Template:"
+msgstr ""
+
+#: assets/js/components/HeaderTemplateSelectBox.js:8
+msgid "Elementor Header Template:"
+msgstr ""
+
+#: assets/js/meta-sidebar.js:15
+msgid "Elemental Theme Builder Settings"
+msgstr ""
+
+#: assets/js/meta-sidebar.js:17
+msgid "Page Layout Settings"
+msgstr ""
+
+#: assets/js/meta-sidebar.js:20
+msgid "\"Inherit\" will display the template assigned for \"Entire Site\". \"Theme Default\" will display the template from the current theme."
+msgstr ""
